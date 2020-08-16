@@ -1,5 +1,5 @@
 {
-    "name": "robofriends",
+    "name": "reactredux",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -10,9 +10,11 @@
         "redux": "^3.7.2",
         "redux-logger": "^3.0.6",
         "redux-thunk": "^2.2.0",
-        "tachyons": "^4.9.0"
+        "tachyons": "^4.9.0",
+        "homepage": "http://sandeeponrails.github.io/react-redux-example"
     },
     "scripts": {
+        "clean": "gh-pages-clean",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test --env=jsdom",
