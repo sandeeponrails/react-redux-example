@@ -2,6 +2,7 @@
     "name": "reactredux",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://sandeeponrails.github.io/react-redux-example",
     "dependencies": {
         "react": "^16.2.0",
         "react-dom": "^16.13.1",
@@ -10,8 +11,7 @@
         "redux": "^3.7.2",
         "redux-logger": "^3.0.6",
         "redux-thunk": "^2.2.0",
-        "tachyons": "^4.9.0",
-        "homepage": "http://sandeeponrails.github.io/react-redux-example"
+        "tachyons": "^4.9.0"
     },
     "scripts": {
         "clean": "gh-pages-clean",
